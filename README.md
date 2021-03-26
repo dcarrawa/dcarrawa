@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Devin Carraway
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate on high quality indie games
+- 📫 You can reach me at devincarr@gmail.com
