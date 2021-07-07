@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Devin Carraway
-- 👀 I’m interested in game / music software development
-- 📫 You can reach me at devincarr@gmail.com
+-Hi, I’m Devin Carraway
+-I’m interested in game / music software development
+-You can reach me at devincarr@gmail.com
